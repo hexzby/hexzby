@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://yuanyuan-readme-stats.vercel.app/api?username=BabyBoy-Yuan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Stats" />
+        <img src="https://yuanyuan-readme-stats.vercel.app/api?username=hexzby&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Stats" />
       </td>
       <td align="center" style="border: none;">
         <img src="https://yuanyuan-readme-stats.vercel.app/api/top-langs/?username=BabyBoy-Yuan&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Languages" />
