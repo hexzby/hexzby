@@ -29,7 +29,7 @@
       </td>
     </tr>
   </table>
-  <img src="https://my-streak-stats-alpha.vercel.app/api?user=BabyBoy-Yuan&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://my-streak-stats-alpha.vercel.app/api?user=hexzby&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 <br/>
