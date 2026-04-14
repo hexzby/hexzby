@@ -45,10 +45,10 @@
 
 <div align="center">
   <a href="https://github.com/BabyBoy-Yuan/work_certification">
-    <img align="center" src="https://yuanyuan-readme-stats.vercel.app/api/pin/?username=BabyBoy-Yuan&repo=work_certification&theme=tokyonight" />
+    <img align="center" src="https://yuanyuan-readme-stats.vercel.app/api/pin/?username=hexzby&repo=work_certification&theme=tokyonight" />
   </a>
   <a href="https://github.com/BabyBoy-Yuan/python_algorithm">
-    <img align="center" src="https://yuanyuan-readme-stats.vercel.app/api/pin/?username=BabyBoy-Yuan&repo=python_algorithm&theme=tokyonight" />
+    <img align="center" src="https://yuanyuan-readme-stats.vercel.app/api/pin/?username=hexzby&repo=python_algorithm&theme=tokyonight" />
   </a>
 </div>
 
